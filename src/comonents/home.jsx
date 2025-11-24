@@ -29,7 +29,7 @@ export default function AryabhataPortfolio() {
     <div {...stylex.props(styles.page)}>
       <header {...stylex.props(styles.header)}>
         <h1 {...stylex.props(styles.title)}>
-          Aryabhata Science & Exploration Center
+          boopathy Science & Exploration Center
         </h1>
         <p {...stylex.props(styles.subtitle)}>Portfolio & Overview</p>
       </header>
