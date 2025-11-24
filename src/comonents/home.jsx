@@ -38,7 +38,7 @@ export default function AryabhataPortfolio() {
         <div {...stylex.props(styles.card)}>
           <h2 {...stylex.props(styles.cardTitle)}>About</h2>
           <p>
-            The Aryabhata Science & Exploration Center is dedicated to promoting
+            The boopathy Science & Exploration Center is dedicated to promoting
             scientific learning and astronomy awareness.
           </p>
         </div>
